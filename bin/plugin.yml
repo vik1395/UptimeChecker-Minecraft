@@ -1,0 +1,6 @@
+name: UptimeChecker
+version: 2.1
+description: A plugin that pings Mojang servers to see if they are online.
+author: Vik1395
+
+main: me.vik1395.MojangUptime.PluginStart

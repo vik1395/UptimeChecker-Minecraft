@@ -1,0 +1,19 @@
+Interval: 5
+# Interval is the time in minutes between pings to the mojang server. Minimum interval is 1 minute.
+
+Broadcast: yes
+# Please type yes if a message should be broadcasted at every ping interval whether Login and Skin servers are online, else, type no.
+
+Prefix: [Mojang Servers]
+
+Broadcast for Login Servers Up: Minecraft login servers are running smoothly.
+Broadcast for Login Servers Down: Minecraft login servers are having problems, you might experience issues when trying to log in.
+
+Broadcast for Skin Servers Up: Minecraft skin servers are running smoothly.
+Broadcast for Skin Servers Down: Minecraft skin servers are experiencing problems.
+
+Broadcast when Skin and Login servers are both up: Minecraft login and skin servers are running fine.
+
+Broadcast for Minecraft Website Down: Minecraft.net is currently down.
+
+#Broadcasts will start with a golden Prefix followed by the user configured message in Red/Green depending upon the status of the server.
