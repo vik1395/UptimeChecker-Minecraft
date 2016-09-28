@@ -18,17 +18,17 @@ They config.yml looks similar to this:
     
     Prefix: [Mojang Servers]
     
-    Broadcast for Login Servers Up: Minecraft login servers are running smoothly.
+    #Broadcast for Login Servers Up: Minecraft login servers are running smoothly.
     
-    Broadcast for Login Servers Down: Minecraft login servers are having problems, you might experience issues when trying to log in.
+    #Broadcast for Login Servers Down: Minecraft login servers are having problems, you might experience issues when trying to log in.
     
-    Broadcast for Skin Servers Up: Minecraft skin servers are running smoothly.
+    #Broadcast for Skin Servers Up: Minecraft skin servers are running smoothly.
     
-    Broadcast for Skin Servers Down: Minecraft skin servers are experiencing problems.
+    #Broadcast for Skin Servers Down: Minecraft skin servers are experiencing problems.
     
-    Broadcast when Skin and Login servers are both up: Minecraft login and skin servers are running fine.
+    #Broadcast when Skin and Login servers are both up: Minecraft login and skin servers are running fine.
     
-    Broadcast for Minecraft Website Down: Minecraft.net is currently down.
+    #Broadcast for Minecraft Website Down: Minecraft.net is currently down.
     
     #Broadcasts will start with a golden Prefix followed by the user configured message in Red/Green depending upon the status of the server.
 
